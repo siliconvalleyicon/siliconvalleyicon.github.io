@@ -1,0 +1,20 @@
+{
+  "representative": {
+    "logo": {
+      "logo_200": "https://siliconvalleyicon.github.io/svi-public-storage/images/svi_logo_200x200.png",
+    },
+    "media": {
+      "twitter": "https://twitter.com/vuvanle",
+      "github": "https://github.com/siliconvalleyicon"
+    }
+  },
+  "server": {
+    "location": {
+        "country": "USA",
+        "city": "San Jose",
+        "website": "http://siliconvalleyicon.com"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "64.225.37.209:9000"
+  }
+}
