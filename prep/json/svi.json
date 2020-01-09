@@ -11,8 +11,7 @@
   "server": {
     "location": {
         "country": "USA",
-        "city": "San Jose",
-        "website": "https://siliconvalleyicon.github.io/"
+        "city": "San Jose"
     },
     "server_type": "cloud",
     "api_endpoint": "138.68.63.35:9000"
